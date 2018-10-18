@@ -72,7 +72,7 @@ def getResponseFromDialogflow(usermessage, conversationid):
 	# Montando a requisição para a API Dialogflow
 	url = "https://api.dialogflow.com/v1/query?v=20150910"
 
-	client_access_token = "..." # insert Dialogflow access token
+	client_access_token = "..." # Inserir Dialogflow access token
 
 	Headers = {
 	    "Authorization":"Bearer "+client_access_token,
@@ -96,7 +96,7 @@ def replyToUser(botmessage, conversationid, userid):
 	# Montando a requisição para a responder ao usuário via API Intercom
 	url = 'https://api.intercom.io/conversations/'+conversationid+'/reply'
 
-	access_token = "..." # insert Intercom access token
+	access_token = "..." # Inserir Intercom access token
 
 	Headers = {
 	    "Authorization":"Bearer "+access_token,
