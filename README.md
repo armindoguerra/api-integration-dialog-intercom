@@ -15,7 +15,7 @@ Necessário para implementação:
 
 ## Etapa 1 - Chaves de acesso as API's Intercom e Dialogflow
 
-As chaves de acesso utilizadas para testes estão carregadas `hardcoded` (api_integration.py). Para regerá-las é acesse as urls:
+As chaves de acesso utilizadas serão carregadas `hardcoded` (integration.py). Para gerá-las acesse as urls:
 
 1. Intercom - https://app.intercom.com/a/apps/lpl09j4t/developer-hub/app-packages/22870/oauth
 2. Dialogflow - Client access token https://console.dialogflow.com/api-client/#/editAgent/61360009-49de-4c9e-b2e9-42d185538107/
