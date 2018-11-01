@@ -1,6 +1,6 @@
 # API de Integração entre o chat Intercom e os Agentes Dialogflow
 
-Essa API (`integration.py`) foi criada com o intuito de realizar a integração entre chatbots treinados com a ferramenta de Processamento de Linguagem Natural Dialogflow e a plataforma de comunicação Intercom. Basicamente, trata-se de uma API criada para integrar ambas as ferramentas citadas utilizando também suas API's nativas.
+A API de Integração (`integration.py`) foi criada com o intuito de realizar a integração entre chatbots treinados com a ferramenta de Processamento de Linguagem Natural Dialogflow e a plataforma de comunicação Intercom. Basicamente, trata-se de uma API criada para integrar ambas as ferramentas citadas utilizando suas API's nativas.
 
 ## Workflow do Chatbot
 
