@@ -15,7 +15,7 @@ Sugere-se que as etapas sejam realizadas na ordem em que estão apresentadas.
 Necessário para implementação:
 
 - Um usuário administrador da plataforma Intercom;
-- Credenciais da conta do Goole que hospeda o chatboot no Dialogflow. 
+- Credenciais da conta do Google que hospeda o agente no Dialogflow. 
 
 ## Etapa 1 - Chaves de acesso as API's Intercom e Dialogflow
 
